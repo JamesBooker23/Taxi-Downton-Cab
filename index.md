@@ -1,15 +1,13 @@
-## Welcome wto GitHub Pages
+## Taxi Downtown Cab
 
-Youjjjh can use the [editor on GitHub](https://github.com/JamesBooker23/taxidowntown/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sur cette page vous pouvez suivre l'avancement de la création des préparations pour  l'entreprise.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Statut
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# test
 ```markdown
-Syntax highlighted code block
+Affiche des prestations : En cours de création
 
 # Header 1
 ## Header 2
