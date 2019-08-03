@@ -2,6 +2,7 @@
 
 Sur cette page vous pouvez suivre l'avancement de la création des préparations pour  l'entreprise.
 
+<br>
 
 ## Statut :
 
@@ -11,7 +12,8 @@ Sur cette page vous pouvez suivre l'avancement de la création des préparations
 <span style="color:red;">Non fait</span><br>
 
 
-
+<br>
+<br>
 
 ### Travail sur photoshop :
 
@@ -22,7 +24,8 @@ Sur cette page vous pouvez suivre l'avancement de la création des préparations
 <span style="color:orange;">Création des affiches de présentation de l'entreprise</span><br>
 
 
-
+<br>
+<br>
 
 ### Avancement sur l'entreprise : 
 
@@ -32,3 +35,11 @@ Sur cette page vous pouvez suivre l'avancement de la création des préparations
 <span style="color:green;">Localisation de l'entreprise</span><br>
 <span style="color:red;">Création des rémunérations</span><br>
 
+<br>
+<br>
+
+### Informations : 
+
+La rémunération sera mise en place à l'ouverture de l'entreprise afin de pouvoir analyser les recettes lors des courses, et donc mettre un salaire par rapport au donnée relevé 
+<br>
+Les affiches resteront privées. Elles seront transmises à l'ouverture au gouverneur qui validera la conformité de ces dernières. Dès lors nous les publieront.
