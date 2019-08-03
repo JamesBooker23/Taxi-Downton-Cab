@@ -3,35 +3,21 @@
 Sur cette page vous pouvez suivre l'avancement de la création des préparations pour  l'entreprise.
 
 
-### Statut
 <span style="color:orange;">Word up</span>
-
-
-# test
-```markdown
-Affiche des prestations : En cours de création
 <span style="color:orange;">Word up</span>
-# Header 1
-## Header 2
-### Header 3
+<span style="color:orange;">Word up</span>
+<span style="color:orange;">Word up</span>
+<span style="color:orange;">Word up</span>
+<span style="color:orange;">Word up</span>
+<span style="color:orange;">Word up</span>
+<span style="color:green;">Word up</span>
+<span style="color:green;">Word up</span>
+<span style="color:green;">Word up</span>
+<span style="color:green;">Word up</span>
+<span style="color:green;">Word up</span>
+<span style="color:red;">Word up</span>
+<span style="color:red;">Word up</span>
+<span style="color:red;">Word up</span>
+<span style="color:red;">Word up</span>
+<span style="color:red;">Word up</span>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamesBooker23/taxidowntown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
