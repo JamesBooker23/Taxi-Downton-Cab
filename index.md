@@ -2,27 +2,21 @@
 
 Sur cette page vous pouvez suivre l'avancement de la création des préparations pour  l'entreprise.
 
-##Statut :
+## Statut :
 
-###Travail sur photoshop :
+### Travail sur photoshop :
+
+<span style="color:green;">Création des affiches des recrutements</span><br>
+<span style="color:green;">Texturisation du véhicule</span><br>
+<span style="color:orange;">Logo de l'entreprise</span><br>
 <span style="color:orange;">Création des affiches des prestations</span><br>
-<span style="color:orange;">Création des affiches des recrutements</span><br>
+<span style="color:orange;">Création des affiches de présentation de l'entreprise</span><br>
 
-### :
 
-<span style="color:orange;">Word up</span>
-<span style="color:orange;">Word up</span>
-<span style="color:orange;">Word up</span>
-<span style="color:green;">Word up</span>
-<span style="color:green;">Word up</span>
-<span style="color:green;">Word up</span>
-<span style="color:green;">Word up</span>
-<span style="color:green;">Word up</span>
-<span style="color:red;">Word up</span>
-<span style="color:red;">Word up</span><br>
+### Avancement sur l'entreprise : 
 
-<span style="color:red;">Word up</span>
-<span style="color:red;">Word up</span>
-<span style="color:red;">Word up</span>
-<span style="color:red;">Word up</span>
-
+<span style="color:green;">Création de la hiérarchie</span><br>
+<span style="color:green;">Créations des contrats de travails</span><br>
+<span style="color:green;">Recherche sur les véhicules</span><br>
+<span style="color:green;">Localisation de l'entreprise</span><br>
+<span style="color:red;">Création des rémunérations</span><br>
