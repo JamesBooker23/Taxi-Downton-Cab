@@ -6,11 +6,11 @@ Sur cette page vous pouvez suivre l'avancement de la création des préparations
 ### Statut
 <span style="color:orange;">Word up</span>
 
-Source: https://prograide.com/pregunta/19405/comment-ajouter-de-la-couleur-au-fichier-readmemd-de-github
+
 # test
 ```markdown
 Affiche des prestations : En cours de création
-
+<span style="color:orange;">Word up</span>
 # Header 1
 ## Header 2
 ### Header 3
