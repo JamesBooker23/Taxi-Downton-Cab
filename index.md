@@ -17,7 +17,6 @@ Sur cette page vous pouvez suivre l'avancement de la création des préparations
 <span style="color:green;">Word up</span>
 <span style="color:red;">Word up</span>
 <span style="color:red;">Word up</span><br>
-
 <span style="color:red;">Word up</span>
 <span style="color:red;">Word up</span>
 <span style="color:red;">Word up</span>
