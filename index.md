@@ -2,7 +2,16 @@
 
 Sur cette page vous pouvez suivre l'avancement de la création des préparations pour  l'entreprise.
 
+
 ## Statut :
+
+
+<span style="color:green;">Fini</span><br>
+<span style="color:orange;">En cours</span><br>
+<span style="color:red;">Non fait</span><br>
+
+
+
 
 ### Travail sur photoshop :
 
@@ -13,6 +22,8 @@ Sur cette page vous pouvez suivre l'avancement de la création des préparations
 <span style="color:orange;">Création des affiches de présentation de l'entreprise</span><br>
 
 
+
+
 ### Avancement sur l'entreprise : 
 
 <span style="color:green;">Création de la hiérarchie</span><br>
@@ -20,3 +31,4 @@ Sur cette page vous pouvez suivre l'avancement de la création des préparations
 <span style="color:green;">Recherche sur les véhicules</span><br>
 <span style="color:green;">Localisation de l'entreprise</span><br>
 <span style="color:red;">Création des rémunérations</span><br>
+
