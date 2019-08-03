@@ -39,7 +39,11 @@ Sur cette page vous pouvez suivre l'avancement de la création des préparations
 
 ### Informations : 
 
-La rémunération sera mise en place à l'ouverture de l'entreprise afin de pouvoir analyser les recettes lors des courses, et donc mettre un salaire par rapport au donnée relevé 
+La rémunération sera mise en place à l'ouverture de l'entreprise afin de pouvoir analyser les recettes lors des courses, et donc mettre un salaire par rapport au donnée relevé.
 <br>
 <br>
 Les affiches resteront privées. Elles seront transmises à l'ouverture au gouverneur qui validera la conformité de ces dernières. Dès lors nous les publieront.
+
+<br>
+<br>
+Ne pas faire attention à ce site, il n'est présent que pour compléter le dossier de demande de création d'entreprise.
